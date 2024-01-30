@@ -1,0 +1,90 @@
+[
+    {
+        "id": "2",
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "price": 8.99,
+        "published_year": 1949
+    },
+    {
+        "id": "3",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "price": 10.99,
+        "published_year": 1925
+    },
+    {
+        "id": "4",
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Adventure",
+        "price": 9.99,
+        "published_year": 1851
+    },
+    {
+        "id": "5",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Historical Fiction",
+        "price": 12.99,
+        "published_year": 1869
+    },
+    {
+        "id": "6",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "price": 8.99,
+        "published_year": 1813
+    },
+    {
+        "id": "7",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "price": 7.99,
+        "published_year": 1951
+    },
+    {
+        "id": "8",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "price": 10.99,
+        "published_year": 1937
+    },
+    {
+        "id": "9",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "genre": "Dystopian",
+        "price": 8.99,
+        "published_year": 1953
+    },
+    {
+        "id": "10",
+        "title": "The Odyssey",
+        "author": "Homer",
+        "genre": "Epic",
+        "price": 11.99,
+        "published_year": -800
+    },
+    {
+        "id": "11",
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "price": 12.99,
+        "published_year": 1954
+    },
+    {
+        "id": "12",
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "genre": "Historical Fiction",
+        "price": 9.99,
+        "published_year": 1859
+    }
+]
