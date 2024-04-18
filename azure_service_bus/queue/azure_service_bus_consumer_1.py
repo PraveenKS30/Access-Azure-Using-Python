@@ -1,6 +1,6 @@
 from azure.servicebus import ServiceBusClient, ServiceBusMessage
 
-connection_str = 'Endpoint=sb://sbdemo3006.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=M2BUAsmZWQ57KbZtwcNUhPuh+Fkvdobzm+ASbLPK4s0='
+connection_str = '<connection string>'
 queue_name = 'my-demo-queue'
 
 # Create a Service Bus client
