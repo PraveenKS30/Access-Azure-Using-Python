@@ -1,7 +1,7 @@
 from azure.servicebus import ServiceBusClient, ServiceBusMessage
 
 # Replace with your own connection string and queue name
-connection_string = "Endpoint=sb://sbdemo3006.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=M2BUAsmZWQ57KbZtwcNUhPuh+Fkvdobzm+ASbLPK4s0="
+connection_string = "<connection string>"
 queue_name = "my-demo-queue"
 
 def send_messages_to_queue():
